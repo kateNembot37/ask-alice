@@ -1,0 +1,20 @@
+html {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    text-align: center;
+}
+img {
+    height: 200px;
+}
+button {
+    border: none;
+    height: 100px;
+    width: 100px;
+    background-color: gold;
+    border-color: gold;
+    text-align: center;
+    border-radius: 50%;
+    
+}
+span {
+    height: 100px;
+}
